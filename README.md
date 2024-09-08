@@ -56,9 +56,8 @@ The `project.ipynb` notebook contains the following sections:
 2. **Data Cleaning and Preprocessing**: Handles missing values, formats data, and prepares it for analysis.
 3. **Exploratory Data Analysis**: Visualizes the data to identify trends and patterns.
 4. **Correlation Analysis**: Calculates the correlation between economic growth and economic freedom indicators.
-5. **Results**: Presents the findings, showing whether a significant correlation exists between the variables.
 
-### Example Results
+### Results
 
 - The correlation analysis indicates a moderate positive relationship between economic freedom and economic growth, suggesting that countries with higher economic freedom tend to have higher growth rates.
 
